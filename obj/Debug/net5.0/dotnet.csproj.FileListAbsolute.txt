@@ -1,0 +1,15 @@
+/Users/dwayne/Desktop/dotnet/bin/Debug/net5.0/dotnet.deps.json
+/Users/dwayne/Desktop/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.json
+/Users/dwayne/Desktop/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.dev.json
+/Users/dwayne/Desktop/dotnet/bin/Debug/net5.0/dotnet.dll
+/Users/dwayne/Desktop/dotnet/bin/Debug/net5.0/ref/dotnet.dll
+/Users/dwayne/Desktop/dotnet/bin/Debug/net5.0/dotnet.pdb
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/dotnet.csprojAssemblyReference.cache
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfoInputs.cache
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfo.cs
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/dotnet.dll
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/ref/dotnet.dll
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/dotnet.pdb
+/Users/dwayne/Desktop/dotnet/obj/Debug/net5.0/dotnet.genruntimeconfig.cache
